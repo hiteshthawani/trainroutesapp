@@ -31,6 +31,7 @@ Todo
 - Improve Readme 
     - add info to setup Scala and SBT
     - add flow diagram
+- add scala formatter
 - Add loggers
 - Add in-memory cache to cache requests
 - Add asynchronus support to serve requests
