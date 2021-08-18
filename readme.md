@@ -26,7 +26,7 @@ This is how overall test summary will look like.
 
 ![](test-summary.png)
 
-Todo
+More Enhancements that can be done
 ----------
 - Improve Readme 
     - add info to setup Scala and SBT
